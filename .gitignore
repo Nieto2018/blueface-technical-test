@@ -2,3 +2,5 @@
 .idea/
 
 venv37/
+
+.coverage
